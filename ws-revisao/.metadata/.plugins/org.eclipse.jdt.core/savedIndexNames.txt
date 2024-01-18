@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\eryck.silva\Desktop\Projetos\ws-revisao\.metadata\.plugins\org.eclipse.jdt.core
+1251219918.index
+3989914085.index
+4062405914.index
+1865797976.index
