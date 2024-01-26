@@ -15,6 +15,7 @@ public class ProductDTO {
 		this.name = name;
 	}
 
+
 	public ProductDTO(Product entity) {
 		id = entity.getId();
 		name = entity.getName();
